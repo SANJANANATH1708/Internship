@@ -1,0 +1,181 @@
+Category,Year-Month,Amount
+Electronics,2020-03,11812
+Electronics,2020-04,48488
+Electronics,2020-05,34927
+Electronics,2020-06,14779
+Electronics,2020-07,6846
+Electronics,2020-08,23088
+Electronics,2020-09,43040
+Electronics,2020-10,28038
+Electronics,2020-11,22160
+Electronics,2021-01,9190
+Electronics,2021-02,40782
+Electronics,2021-03,45229
+Electronics,2021-04,28512
+Electronics,2021-05,43359
+Electronics,2021-06,39775
+Electronics,2021-07,32942
+Electronics,2021-08,15761
+Electronics,2021-09,27813
+Electronics,2021-10,34218
+Electronics,2021-11,44000
+Electronics,2021-12,26176
+Electronics,2022-01,50077
+Electronics,2022-02,41806
+Electronics,2022-03,31433
+Electronics,2022-04,34111
+Electronics,2022-05,77621
+Electronics,2022-06,35010
+Electronics,2022-07,21655
+Electronics,2022-08,35835
+Electronics,2022-09,14986
+Electronics,2022-10,48194
+Electronics,2022-11,12848
+Electronics,2022-12,74875
+Electronics,2023-01,31314
+Electronics,2023-02,4918
+Electronics,2023-03,69836
+Electronics,2023-04,37967
+Electronics,2023-05,48687
+Electronics,2023-06,64329
+Electronics,2023-07,64688
+Electronics,2023-08,34269
+Electronics,2023-09,49664
+Electronics,2023-10,55160
+Electronics,2023-11,13876
+Electronics,2023-12,63611
+Electronics,2024-01,13064
+Electronics,2024-02,30690
+Electronics,2024-03,25933
+Electronics,2024-04,28093
+Electronics,2024-05,22179
+Electronics,2024-06,40933
+Electronics,2024-07,23382
+Electronics,2024-08,32961
+Electronics,2024-09,33769
+Electronics,2024-10,28531
+Electronics,2024-11,9754
+Electronics,2024-12,29341
+Electronics,2025-01,51814
+Electronics,2025-02,33539
+Electronics,2025-03,12768
+Furniture,2020-04,48701
+Furniture,2020-05,39055
+Furniture,2020-06,22156
+Furniture,2020-08,37830
+Furniture,2020-09,44248
+Furniture,2020-10,41808
+Furniture,2020-11,29213
+Furniture,2020-12,36697
+Furniture,2021-01,3577
+Furniture,2021-02,35417
+Furniture,2021-03,22707
+Furniture,2021-04,29135
+Furniture,2021-05,41704
+Furniture,2021-06,31131
+Furniture,2021-07,1486
+Furniture,2021-08,44848
+Furniture,2021-09,4889
+Furniture,2021-10,37671
+Furniture,2021-11,74040
+Furniture,2021-12,64737
+Furniture,2022-01,41911
+Furniture,2022-02,46367
+Furniture,2022-03,37765
+Furniture,2022-04,21284
+Furniture,2022-05,50437
+Furniture,2022-06,55001
+Furniture,2022-07,31197
+Furniture,2022-08,69718
+Furniture,2022-09,17499
+Furniture,2022-10,43340
+Furniture,2022-11,14747
+Furniture,2022-12,67087
+Furniture,2023-01,14403
+Furniture,2023-02,22430
+Furniture,2023-03,14013
+Furniture,2023-04,47928
+Furniture,2023-05,21893
+Furniture,2023-06,18444
+Furniture,2023-07,69193
+Furniture,2023-08,22553
+Furniture,2023-09,28967
+Furniture,2023-10,40441
+Furniture,2023-11,30543
+Furniture,2023-12,55085
+Furniture,2024-01,2346
+Furniture,2024-02,49201
+Furniture,2024-03,47292
+Furniture,2024-04,55517
+Furniture,2024-05,50370
+Furniture,2024-06,53210
+Furniture,2024-07,36956
+Furniture,2024-08,11391
+Furniture,2024-09,31599
+Furniture,2024-10,10246
+Furniture,2024-11,28612
+Furniture,2024-12,39138
+Furniture,2025-01,15685
+Furniture,2025-02,25384
+Furniture,2025-03,8430
+Office Supplies,2020-03,11179
+Office Supplies,2020-04,36196
+Office Supplies,2020-05,39305
+Office Supplies,2020-06,9965
+Office Supplies,2020-07,31710
+Office Supplies,2020-08,30199
+Office Supplies,2020-09,22146
+Office Supplies,2020-10,40990
+Office Supplies,2020-11,56797
+Office Supplies,2020-12,48028
+Office Supplies,2021-01,9420
+Office Supplies,2021-02,13630
+Office Supplies,2021-03,35262
+Office Supplies,2021-04,24816
+Office Supplies,2021-05,39086
+Office Supplies,2021-06,25710
+Office Supplies,2021-07,51183
+Office Supplies,2021-08,18885
+Office Supplies,2021-09,24724
+Office Supplies,2021-10,84322
+Office Supplies,2021-11,32939
+Office Supplies,2021-12,42370
+Office Supplies,2022-01,53631
+Office Supplies,2022-02,18562
+Office Supplies,2022-03,24597
+Office Supplies,2022-04,55478
+Office Supplies,2022-05,15655
+Office Supplies,2022-06,56986
+Office Supplies,2022-07,8893
+Office Supplies,2022-08,93412
+Office Supplies,2022-09,16134
+Office Supplies,2022-10,63974
+Office Supplies,2022-11,15198
+Office Supplies,2022-12,62451
+Office Supplies,2023-01,18604
+Office Supplies,2023-02,33634
+Office Supplies,2023-03,22000
+Office Supplies,2023-04,17214
+Office Supplies,2023-05,12720
+Office Supplies,2023-06,14997
+Office Supplies,2023-07,47673
+Office Supplies,2023-08,18048
+Office Supplies,2023-09,29502
+Office Supplies,2023-10,31260
+Office Supplies,2023-11,44477
+Office Supplies,2023-12,15382
+Office Supplies,2024-01,32235
+Office Supplies,2024-02,28523
+Office Supplies,2024-03,45991
+Office Supplies,2024-04,54442
+Office Supplies,2024-05,44945
+Office Supplies,2024-06,46602
+Office Supplies,2024-07,69606
+Office Supplies,2024-08,29032
+Office Supplies,2024-09,19256
+Office Supplies,2024-10,44328
+Office Supplies,2024-11,22610
+Office Supplies,2024-12,30400
+Office Supplies,2025-01,45407
+Office Supplies,2025-02,25789
+Office Supplies,2025-03,31000

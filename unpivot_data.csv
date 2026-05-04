@@ -1,0 +1,184 @@
+Category,Year-Month,Amount
+Electronics,2020-03,11812.0
+Furniture,2020-03,
+Office Supplies,2020-03,11179.0
+Electronics,2020-04,48488.0
+Furniture,2020-04,48701.0
+Office Supplies,2020-04,36196.0
+Electronics,2020-05,34927.0
+Furniture,2020-05,39055.0
+Office Supplies,2020-05,39305.0
+Electronics,2020-06,14779.0
+Furniture,2020-06,22156.0
+Office Supplies,2020-06,9965.0
+Electronics,2020-07,6846.0
+Furniture,2020-07,
+Office Supplies,2020-07,31710.0
+Electronics,2020-08,23088.0
+Furniture,2020-08,37830.0
+Office Supplies,2020-08,30199.0
+Electronics,2020-09,43040.0
+Furniture,2020-09,44248.0
+Office Supplies,2020-09,22146.0
+Electronics,2020-10,28038.0
+Furniture,2020-10,41808.0
+Office Supplies,2020-10,40990.0
+Electronics,2020-11,22160.0
+Furniture,2020-11,29213.0
+Office Supplies,2020-11,56797.0
+Electronics,2020-12,
+Furniture,2020-12,36697.0
+Office Supplies,2020-12,48028.0
+Electronics,2021-01,9190.0
+Furniture,2021-01,3577.0
+Office Supplies,2021-01,9420.0
+Electronics,2021-02,40782.0
+Furniture,2021-02,35417.0
+Office Supplies,2021-02,13630.0
+Electronics,2021-03,45229.0
+Furniture,2021-03,22707.0
+Office Supplies,2021-03,35262.0
+Electronics,2021-04,28512.0
+Furniture,2021-04,29135.0
+Office Supplies,2021-04,24816.0
+Electronics,2021-05,43359.0
+Furniture,2021-05,41704.0
+Office Supplies,2021-05,39086.0
+Electronics,2021-06,39775.0
+Furniture,2021-06,31131.0
+Office Supplies,2021-06,25710.0
+Electronics,2021-07,32942.0
+Furniture,2021-07,1486.0
+Office Supplies,2021-07,51183.0
+Electronics,2021-08,15761.0
+Furniture,2021-08,44848.0
+Office Supplies,2021-08,18885.0
+Electronics,2021-09,27813.0
+Furniture,2021-09,4889.0
+Office Supplies,2021-09,24724.0
+Electronics,2021-10,34218.0
+Furniture,2021-10,37671.0
+Office Supplies,2021-10,84322.0
+Electronics,2021-11,44000.0
+Furniture,2021-11,74040.0
+Office Supplies,2021-11,32939.0
+Electronics,2021-12,26176.0
+Furniture,2021-12,64737.0
+Office Supplies,2021-12,42370.0
+Electronics,2022-01,50077.0
+Furniture,2022-01,41911.0
+Office Supplies,2022-01,53631.0
+Electronics,2022-02,41806.0
+Furniture,2022-02,46367.0
+Office Supplies,2022-02,18562.0
+Electronics,2022-03,31433.0
+Furniture,2022-03,37765.0
+Office Supplies,2022-03,24597.0
+Electronics,2022-04,34111.0
+Furniture,2022-04,21284.0
+Office Supplies,2022-04,55478.0
+Electronics,2022-05,77621.0
+Furniture,2022-05,50437.0
+Office Supplies,2022-05,15655.0
+Electronics,2022-06,35010.0
+Furniture,2022-06,55001.0
+Office Supplies,2022-06,56986.0
+Electronics,2022-07,21655.0
+Furniture,2022-07,31197.0
+Office Supplies,2022-07,8893.0
+Electronics,2022-08,35835.0
+Furniture,2022-08,69718.0
+Office Supplies,2022-08,93412.0
+Electronics,2022-09,14986.0
+Furniture,2022-09,17499.0
+Office Supplies,2022-09,16134.0
+Electronics,2022-10,48194.0
+Furniture,2022-10,43340.0
+Office Supplies,2022-10,63974.0
+Electronics,2022-11,12848.0
+Furniture,2022-11,14747.0
+Office Supplies,2022-11,15198.0
+Electronics,2022-12,74875.0
+Furniture,2022-12,67087.0
+Office Supplies,2022-12,62451.0
+Electronics,2023-01,31314.0
+Furniture,2023-01,14403.0
+Office Supplies,2023-01,18604.0
+Electronics,2023-02,4918.0
+Furniture,2023-02,22430.0
+Office Supplies,2023-02,33634.0
+Electronics,2023-03,69836.0
+Furniture,2023-03,14013.0
+Office Supplies,2023-03,22000.0
+Electronics,2023-04,37967.0
+Furniture,2023-04,47928.0
+Office Supplies,2023-04,17214.0
+Electronics,2023-05,48687.0
+Furniture,2023-05,21893.0
+Office Supplies,2023-05,12720.0
+Electronics,2023-06,64329.0
+Furniture,2023-06,18444.0
+Office Supplies,2023-06,14997.0
+Electronics,2023-07,64688.0
+Furniture,2023-07,69193.0
+Office Supplies,2023-07,47673.0
+Electronics,2023-08,34269.0
+Furniture,2023-08,22553.0
+Office Supplies,2023-08,18048.0
+Electronics,2023-09,49664.0
+Furniture,2023-09,28967.0
+Office Supplies,2023-09,29502.0
+Electronics,2023-10,55160.0
+Furniture,2023-10,40441.0
+Office Supplies,2023-10,31260.0
+Electronics,2023-11,13876.0
+Furniture,2023-11,30543.0
+Office Supplies,2023-11,44477.0
+Electronics,2023-12,63611.0
+Furniture,2023-12,55085.0
+Office Supplies,2023-12,15382.0
+Electronics,2024-01,13064.0
+Furniture,2024-01,2346.0
+Office Supplies,2024-01,32235.0
+Electronics,2024-02,30690.0
+Furniture,2024-02,49201.0
+Office Supplies,2024-02,28523.0
+Electronics,2024-03,25933.0
+Furniture,2024-03,47292.0
+Office Supplies,2024-03,45991.0
+Electronics,2024-04,28093.0
+Furniture,2024-04,55517.0
+Office Supplies,2024-04,54442.0
+Electronics,2024-05,22179.0
+Furniture,2024-05,50370.0
+Office Supplies,2024-05,44945.0
+Electronics,2024-06,40933.0
+Furniture,2024-06,53210.0
+Office Supplies,2024-06,46602.0
+Electronics,2024-07,23382.0
+Furniture,2024-07,36956.0
+Office Supplies,2024-07,69606.0
+Electronics,2024-08,32961.0
+Furniture,2024-08,11391.0
+Office Supplies,2024-08,29032.0
+Electronics,2024-09,33769.0
+Furniture,2024-09,31599.0
+Office Supplies,2024-09,19256.0
+Electronics,2024-10,28531.0
+Furniture,2024-10,10246.0
+Office Supplies,2024-10,44328.0
+Electronics,2024-11,9754.0
+Furniture,2024-11,28612.0
+Office Supplies,2024-11,22610.0
+Electronics,2024-12,29341.0
+Furniture,2024-12,39138.0
+Office Supplies,2024-12,30400.0
+Electronics,2025-01,51814.0
+Furniture,2025-01,15685.0
+Office Supplies,2025-01,45407.0
+Electronics,2025-02,33539.0
+Furniture,2025-02,25384.0
+Office Supplies,2025-02,25789.0
+Electronics,2025-03,12768.0
+Furniture,2025-03,8430.0
+Office Supplies,2025-03,31000.0

@@ -1,0 +1,7 @@
+Name,Age,Join_Date,Department
+ Alice ,25.0,2023-01-01,HR
+bob,,01/02/2023,IT
+CHARLIE,30.0,March 3 2023,
+,22.0,,Finance
+Eve,,2023/05/01,IT
+Alice,25.0,2023-01-01,HR
