@@ -14,11 +14,11 @@ nltk.download('stopwords')
 # =========================================
 data = {
     "Review": [
-        "This product is amazing and works perfectly!",
+        "This product is amazing! I love it",
         "Worst experience ever, very bad quality",
         "It is okay, not great but not bad",
         "I love this! Highly recommend it",
-        "Terrible, waste of money"
+        "Terrible, waste of money"git add .
     ]
 }
 
