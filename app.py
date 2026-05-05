@@ -14,8 +14,6 @@ st.title("📊 Internship Dashboard Login")
 username = st.text_input("Username")
 password = st.text_input("Password", type="password")
 
-if username == "admin" and password == "1234":
-    st.success("Login Successful")
 
 if username == "admin" and password == "1234":
     st.success("Login Successful")
